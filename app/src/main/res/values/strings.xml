@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email_hint">\@gmail.com</string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="txtContacts">Contacts</string>
+</resources>
